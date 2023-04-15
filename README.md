@@ -2,14 +2,6 @@
 
 Source: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
-# Table of Contents
-  1. Introduction
-  2. Dataset Information
-  3. Project Goals
-  4. Data Cleaning and Exploration
-  5. Modeling
-  6. Evaluation
-  7. Conclusion
 
 # Introduction
 This dataset contains the online shoppers' behaviors and intentions from a leading Brazilian e-commerce company. The dataset consists of 12,330 online sessions from their website. The dataset includes 10 numerical and 8 categorical attributes.
@@ -36,10 +28,6 @@ Dataset Information
 17. Weekend: Boolean value indicating whether the date of the session is weekend.
 18. Revenue: Class label indicating whether the visit has generated revenue (1) or not (0).
 
-# Preprocessing Steps
-1. Removed duplicates from the dataset.
-2. Capitalized the first letter of each month name.
-3. Replaced June with Jun in the month column
 
 # Business Problem:
 
