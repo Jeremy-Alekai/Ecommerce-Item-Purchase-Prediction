@@ -59,6 +59,20 @@ During the data cleaning process, missing values, inconsistent data formats, and
 
 Exploratory data analysis (EDA) was performed to better understand the relationships between features and the target variable. This involved analyzing distributions of individual features, correlations between features, and how they relate to the target variable.
 
+
+![image](https://user-images.githubusercontent.com/57034956/232239128-cead82be-872e-4bd6-bf39-27b728b5a3f2.png)
+
+85% of customers return back to site, which is a good indication. Meaning that customers are satisfied with what they are getting. 13.74% of customers are new customers
+
+![image](https://user-images.githubusercontent.com/57034956/232239180-cdb7612f-568d-488e-9725-5d98626f3e72.png)
+Less people visit this site during weekdays than weekends
+
+![image](https://user-images.githubusercontent.com/57034956/232239260-bb3f42bb-3c9c-44ac-8c33-667e87b80f9e.png)
+The returning visitors seem to make more purchases that new visitors
+
+![image](https://user-images.githubusercontent.com/57034956/232239428-85b3b0f2-b478-410f-b6f3-be99f7451d31.png)
+
+
 # Modeling
 
 Various classification models were trained and evaluated, including Logistic Regression, Decision Trees, Random Forests, and Gradient Boosting. The models were trained and evaluated using cross-validation techniques to ensure robustness of the results.
