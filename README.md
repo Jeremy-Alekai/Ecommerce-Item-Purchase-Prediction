@@ -81,8 +81,10 @@ Various classification models were trained and evaluated, including Logistic Reg
 
 The performance of the various models was evaluated using standard classification metrics such as accuracy, precision, recall, and F1-score. The best performing model was selected based on these metrics and further analyzed.
 
-# Conclusion
+Results:
 
-The project was successful in developing a machine learning model that accurately predicts whether an online shopper is likely to make a purchase or not based on the given features. The selected model achieved high performance on the evaluation metrics, which suggests it can be used in real-world scenarios to make predictions.
+Our model had an F1 score of 0.90, which is a good performance. This means that our model is able to predict with good accuracy which customers are likely to make a purchase, and which are not. By identifying potential customers, businesses can focus their marketing efforts on these customers, and improve their chances of making a sale.
 
-Future work could involve further feature engineering and exploring different model architectures to improve performance even further.
+Recommendations:
+
+We recommend that businesses use this model to predict which customers are likely to make a purchase. By targeting these customers with personalized marketing messages, businesses can improve their chances of making a sale, and increase their revenue.
